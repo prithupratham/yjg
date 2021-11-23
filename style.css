@@ -1,0 +1,36 @@
+body{
+    background-color: lightcoral;
+    text-align: center;
+}
+.Heading{
+    font-size: 30px;
+    box-shadow: 5px 5px 5px rgb(32, 196, 218);
+    color: white;
+    border-radius: 15px;
+    float: none;
+    padding: 10px;
+    background-color: lightseagreen;
+    height: 50px;
+}
+.CaseStydy{
+    background-color: teal;
+    border-radius: 10px;
+    box-shadow:20px 20px 10px lightseagreen; 
+    font-size: 20px;
+    margin-left: 325px;
+    text-align: left;
+    margin-bottom: 40px;
+    color: black;
+}
+.Google{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px lightskyblue;
+    color: blueviolet;
+}
+h3{
+    color: white;
+}
+#Image{
+    border-radius: 35px;
+} 
